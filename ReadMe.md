@@ -6,7 +6,7 @@ Forked to modify the fan curve, as it made very little sense for the Radxa fan.
 
 **CAUTION**
 
-This tool only works with kernels tat don't use the kernel driver module (`pwm-fan`, to see if it is loaded, use `lsmod|grep pwm`, if it lists the module, this userspace script won't work).
+This tool only works with kernels that don't use the kernel driver module (`pwm-fan`, to see if it is loaded, use `lsmod|grep pwm`, if it lists the module, this userspace script won't work).
 
 Features
 --------------
